@@ -1,2 +1,2 @@
 # CODSOFT
- this is for my internship repository. the task file should be here
+ this is for my online internship(which is a a fraud i didnt know that) repository. the task file should be here
